@@ -79,10 +79,5 @@ module.exports = {
     // Enforce that a label tag has a text label and an associated control.
     // https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/master/docs/rules/label-has-associated-control.md
     "jsx-a11y/label-has-associated-control": ["error"],
-
-    // Hooks are a new addition in React 16.8. They let you use state and other React features without writing a class.
-    // https://reactjs.org/docs/hooks-rules.html
-    "react-hooks/rules-of-hooks": "error",
-    "react-hooks/exhaustive-deps": "warn",
   }
 };

@@ -5,7 +5,7 @@
   "description": "Saagie's ESLint config",
   "main": "index.js",
   "dependencies": {
-    "eslint-config-airbnb": "18.1.0"
+    "eslint-config-airbnb": "18.2.0"
   },
   "devDependencies": {
     "eslint-plugin-import": "2.20.2",
